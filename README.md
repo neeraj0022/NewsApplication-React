@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# VishayNews - NewsWebApplication built using ReactJS and NewsAPI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
