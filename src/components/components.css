@@ -1,0 +1,29 @@
+
+.heading-one{
+    font-weight:bold;
+    font-size:26px;
+    font-family: 'Baloo Bhai 2', cursive;
+
+}
+
+.container-fluid{
+    font-family: 'Baloo Bhai 2', cursive;
+    font-size: larger;
+}
+.container-fluid img{
+    width: 3%;
+}
+
+.container-fluid ul li:hover{
+    text-decoration: dashed;
+
+}
+
+.navbar-brand{
+    font-size: x-large;
+    color: bisque;
+}
+
+.one{
+    display: flex;
+}
